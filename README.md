@@ -1,1 +1,1 @@
-home automation using ARDUINO,
+home automation using ARDUINO UNO and ESP32,
